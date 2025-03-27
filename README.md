@@ -34,7 +34,7 @@ Configure SMAX API Credentials and Email Settings in the .env or config.py file.
 
 3. **Run the tool:**
    ```bash
-   python main.py
+   python script.py
    ```
 
 ## Future Enhancements
