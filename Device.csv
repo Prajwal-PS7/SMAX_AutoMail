@@ -1,0 +1,9 @@
+asset_id,category_name,type_name,item_name,make,model,sr_no,sol_id,branch_name,user_ein,user_name,warrant_start_date,warranty_expiry_date,status,ip_address,vertical,availability,remark,verification_date
+Test-ASSET01,Hardware,Desktop,Monitor,PK,PK,PK123456,11,Test Assets,123456,Test User One,01-01-2000,01-01-2001,Deployed,192.168.10.10,Test Env,,,
+Test-ASSET02,Hardware,Desktop,Monitor,XY,XY,XY123456,12,Test Assets,789123,Test User Two,02-02-2000,02-02-2002,Deployed,192.168.20.20,Test Env,,,
+Test-ASSET03,Hardware,Desktop,Monitor,XY,XY,XY123456,12,Test Assets,789123,Test User Two,02-02-2000,02-02-2002,Deployed,192.168.20.20,Test Env,,,
+Test-ASSET04,Hardware,Desktop,Monitor,PK,PK,OF123456,33,Test Assets,101012,Test User Three,03-03-2000,03-03-2003,Deployed,192.168.30.30,Test Env,,,
+Test-ASSET05,Hardware,Desktop,Monitor,OF,PK,OF123456,33,Test Assets,101012,Test User Three,03-03-2000,03-03-2003,Deployed,192.168.30.30,Test Env,,,
+Test-ASSET07,Hardware,Desktop,Monitor,OF,OF,OF123456,33,Test Assets,101012,Test User Three,03-03-2000,03-03-2003,Deployed,192.168.30.30,Test Env,,,
+Test-ASSET06,Hardware,Desktop,Monitor,PK,PK,PK123456,11,Test Assets,123456,Test User One,01-01-2000,01-01-2001,Deployed,192.168.10.10,Test Env,,,
+Test-ASSET08,Hardware,Desktop,Monitor,PK,PK,PK123456,11,Test Assets,123456,Test User One,01-01-2000,01-01-2001,Deployed,192.168.10.10,Test Env,,,
