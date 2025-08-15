@@ -3,6 +3,18 @@
 
 This project is a Python-based automation tool designed to fetch asset data from SMAX (Service Management Automation X) using REST API. It authenticates and validates tokens to securely retrieve asset details and filters the asset list based on the assigned asset owner. Once filtered, the tool automatically sends an email notification containing the list of assets to their respective owners.
 
+## Table of Contents
+Overview
+Features
+Installation
+Configuration
+Usage
+Operation Workflow
+Troubleshooting
+Maintenance
+Security Considerations
+License
+
 
 ## Key Features
 ✅ Secure Authentication – Uses REST API token authentication for data retrieval. <br/>
