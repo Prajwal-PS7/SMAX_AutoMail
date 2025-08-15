@@ -1,13 +1,13 @@
 Entity Type,Id,Hostname,Sub Type,Type,Asset Tag,SOL ID,Support Type,Device Status,Owner Name,Owner EIN,Owner Email
-Device,12341,itpcs-12341,Desktop,Normal_c,ITPCS-12341,123,AMC_c,Deployed_c,"Spider, Man",9876,spider.man@example.com
+Device,12341,itpcs-12341,Desktop,Normal_c,ITPCS-12341,123,AMC_c,Deployed_c,"Spider Man",9876,spider.man@example.com
 Device,12342,itpcs-12342,Desktop,Normal_c,ITPCS-12342,1410,AMC_c,Markedfordisposal_c,,,
-Device,12343,itpcs-12343,Desktop,Normal_c,ITPCS-12343,123,AMC_c,Markedfordisposal_c,"Spider, Man",9876,spider.man@example.com
+Device,12343,itpcs-12343,Desktop,Normal_c,ITPCS-12343,123,AMC_c,Markedfordisposal_c,"Spider Man",9876,spider.man@example.com
 Device,12344,itpcs-12344,Desktop,Normal_c,ITPCS-12344,1777,AMC_c,Markedfordisposal_c,,,,
-Device,12345,itpcs-12345,Desktop,Normal_c,ITPCS-12345,123,AMC_c,Markedfordisposal_c,"Iron, man",1234,iron.man@example.com
+Device,12345,itpcs-12345,Desktop,Normal_c,ITPCS-12345,123,AMC_c,Markedfordisposal_c,"Iron man",1234,iron.man@example.com
 Device,12346,itpcs-12346,Desktop,Normal_c,ITPCS-12346,,AMC_c,Markedfordisposal_c,,,,
 Device,12347,itpcs-12347,Desktop,Normal_c,ITPCS-12347,,AMC_c,Deployed_c,,,,
-Device,122348,itpcs-122348,Desktop,Normal_c,ITPCS-122348,123,Warranty_c,Deployed_c,"Bat, Man",5678,bat.man@example.com
-Device,12348,itpcs-12348,Desktop,Normal_c,ITPCS-12348,,AMC_c,Markedfordisposal_c,"Iron, man",1234,iron.man@example.com
-Device,12351,itpcs-12351,Desktop,Normal_c,ITPCS-12351,004,AMC_c,Markedfordisposal_c,"Bat, Man",5678,bat.man@example.com
-Device,12352,itpcs-12352,Desktop,Normal_c,ITPCS-12352,,AMC_c,Markedfordisposal_c,"Iron, man",1234,iron.man@example.com
+Device,122348,itpcs-122348,Desktop,Normal_c,ITPCS-122348,123,Warranty_c,Deployed_c,"Bat Man",5678,bat.man@example.com
+Device,12348,itpcs-12348,Desktop,Normal_c,ITPCS-12348,,AMC_c,Markedfordisposal_c,"Iron man",1234,iron.man@example.com
+Device,12351,itpcs-12351,Desktop,Normal_c,ITPCS-12351,004,AMC_c,Markedfordisposal_c,"Bat Man",5678,bat.man@example.com
+Device,12352,itpcs-12352,Desktop,Normal_c,ITPCS-12352,,AMC_c,Markedfordisposal_c,"Iron man",1234,iron.man@example.com
 Device,12353,itpcs-12353,Desktop,Normal_c,ITPCS-12353,,AMC_c,Markedfordisposal_c,,,,
