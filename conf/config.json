@@ -1,0 +1,30 @@
+{
+    "MAIL_FORMAT": "./ui/index.html",
+
+    "SOL_CSV": "./conf/sol.csv",
+
+    "SMTP_SERVER": {
+        "SMTP_HOST": "smtp.example.com",
+        "SMTP_PORT": "25"
+    },
+
+    "USER_MEMBERS": {
+        "SENDER_MAIL": "automail@example.com",
+        "SUPPORT_MAIL": "support@example.com"
+    },
+
+    "SMAX_AUTH": {
+        "SMAX_HOST": "app.example.com",
+        "SMAX_PORT": "8443",
+        "TENANT_ID": "1234567",
+        "USERNAME": "auto-mail",
+        "PASSWORD": "Pass@123"
+    },
+
+    "TENANT": {
+        "AUTH_URL": "https://app.example.com/auth/authentication-endpoint/authenticate/token?TENANTID=1234567",
+
+        "GET_URL": "https://app.example.com/rest/1234567/ems/Device?filter=((SubType+%3D+%27Desktop%27+or+SubType+%3D+%27Laptop%27+or+SubType+%3D+%27MobileDevice%27+or+SubType+%3D+%27VoipEquipment%27+or+SubType+%3D+%27CashRegister%27+or+SubType+%3D+%27ThinClient%27+or+SubType+%3D+%27CCTVSystem_c%27+or+SubType+%3D+%27XENVM_c%27+or+SubType+%3D+%27OPTIMIZER_c%27+or+SubType+%3D+%27NT_c%27+or+SubType+%3D+%27MODEM_c%27+or+SubType+%3D+%27Monitor_c%27+or+SubType+%3D+%27Printer_c%27+or+SubType+%3D+%27Scanner_c%27+or+SubType+%3D+%27Ipad_c%27+or+SubType+%3D+%27IpPhone_c%27+or+SubType+%3D+%27Biometric_c%27+or+SubType+%3D+%27HSM_c%27+or+SubType+%3D+%27Tablet_c%27+or+SubType+%3D+%27VideoConferencing_c%27+or+SubType+%3D+%27WANOP_c%27+or+SubType+%3D+%27UPS_c%27)+and+(PhaseId+%3D+%27pAwaitingDelivery%27+or+PhaseId+%3D+%27pNew%27+or+PhaseId+%3D+%27pInStock%27+or+PhaseId+%3D+%27pReceive%27+or+PhaseId+%3D+%27pReturnedForMaintenance%27+or+PhaseId+%3D+%27pInUse%27+or+PhaseId+%3D+%27pPrepare%27+or+PhaseId+%3D+%27pRetire%27)+and+Currency+%3D+%27CAD%27+and+(Devicestatus_c+%3D+%27Deployed_c%27+or+Devicestatus_c+%3D+%27Deleted_c%27+or+Devicestatus_c+%3D+%27Donated_c%27+or+Devicestatus_c+%3D+%27PurchasedbyBranch_c%27+or+Devicestatus_c+%3D+%27ITDStock_c%27+or+Devicestatus_c+%3D+%27PurchasedbyEmployee_c%27+or+Devicestatus_c+%3D+%27BranchStock_c%27+or+Devicestatus_c+%3D+%27Notunderamc_c%27+or+Devicestatus_c+%3D+%27Markedfordisposal_c%27+or+Devicestatus_c+%3D+%27ProvidedtoDirector_c%27+or+Devicestatus_c+%3D+%27Redeployed_c%27+or+Devicestatus_c+%3D+%27EndofLife_c%27+or+Devicestatus_c+%3D+%27DamagedEOL_c%27))&layout=Id,DisplayLabel,SubType,Subtypeprinter_c,AssetTag,Solid1_c.DisplayLabel,WarrantyAMC1_c,Devicestatus_c,OwnedByPerson.Name,UserEIN_c,OwnedByPerson.Email&meta=totalCount&order=SubType+asc&size=100000000&skip=0"
+
+    }
+}
