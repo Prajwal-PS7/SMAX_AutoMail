@@ -1,5 +1,5 @@
 # SMAX Auto Mail Notification Tool
-<img width="1536" height="1024" alt="Banner" src="https://github.com/user-attachments/assets/6dd526a9-8b53-49f3-89ff-eb466d13b2f5" />
+<img alt="Banner" src="https://github.com/user-attachments/assets/6dd526a9-8b53-49f3-89ff-eb466d13b2f5" />
 
 This project is a Python-based automation tool designed to fetch asset data from SMAX (Service Management Automation X) using REST API. It authenticates and validates tokens to securely retrieve asset details and filters the asset list based on the assigned asset owner. Once filtered, the tool automatically sends an email notification containing the list of assets to their respective owners.
 
